@@ -15,11 +15,10 @@ Console Application
 
 #Steps to Run the Project:
 1.Clone the repository
-git clone https://github.com/your-username/CyberSecurityChatbot.git
-Navigate to the project folder
-2.Open the project in Visual Studio
-3.Open CyberSecurityChatbot.sln
-4.Run the program
+2.Navigate to the project folder
+3.Open the project in Visual Studio
+4.Open CyberSecurityChatbot.sln
+5.Run the program
 
 #USAGE:
 1.Enter your name when prompted.
